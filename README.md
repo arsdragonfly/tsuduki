@@ -6,3 +6,4 @@ Tsuduki is an experimental language featuring first-class interrupts (i.e. algeb
 LHS ::= N | LHS.V
 Exp ::== N | V | Rule | Exp.Exp
 Rule ::= Rho.LHS.Exp
+```
